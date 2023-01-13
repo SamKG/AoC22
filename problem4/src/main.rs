@@ -1,4 +1,3 @@
-use itertools::Itertools;
 use std::{fmt::Display, fs::File, io::Read};
 
 #[derive(Debug, Copy, Clone)]
